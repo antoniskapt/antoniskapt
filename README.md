@@ -9,3 +9,7 @@ Typesettiong, typography, UI & UX design, category theory, mathematical logic, l
 ## Programming languages 
 
 `C`, `C++`, `Python`, `Java`, [`Processing`](https://processing.org/), `Fortran`, `MIPS32`, `Matlbab`
+
+## Markup Languages
+
+LaTeX, LuaLaTeX and Markdown
