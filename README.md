@@ -4,7 +4,7 @@ My name is Antonis and I am studying Electrical & Computer Engineering at Aristo
 
 ## Interests
 
-Typography, UI and UX design, category theory, mathematical logic, low level programming and legacy operating systems among others.
+Typography, UI & UX design, category theory, mathematical logic, low level programming and legacy operating systems among others.
 
 ## Programming languages 
 
