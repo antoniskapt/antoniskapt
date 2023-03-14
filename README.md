@@ -8,4 +8,4 @@ Typography, UI and UX design, category theory, low level programming and legacy 
 
 ## Programming languages 
 
-`C`, `C++`, `Python`, `Java`, [`Processing`](https://processing.org/), `Fortran`, `MIPS32` 
+`C`, `C++`, `Python`, `Java`, [`Processing`](https://processing.org/), `Fortran`, `MIPS32`, `Matlbab`
