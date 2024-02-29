@@ -1,6 +1,6 @@
 ## About
 
-My name is Antonis and I'm a morbidly curious individual studying electrical & computer engineering at Aristotle University Of Thessaloniki.
+My name is Antonis and I'm a curious individual studying electrical & computer engineering at Aristotle University Of Thessaloniki.
 
 ## Interests
 
