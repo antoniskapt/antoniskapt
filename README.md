@@ -4,4 +4,4 @@ My name is Antonis and I'm a curious individual studying electrical & computer e
 
 ## Interests
 
-Cinema, (mainly greek) poetry, typesetting & typography, UI & UX design and legacy operating systems among others.
+Cinema, (mainly greek) poetry, typesetting & typography, UI & UX design and legacy software among others.
